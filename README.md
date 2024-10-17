@@ -1,2 +1,0 @@
-# 22_Js_DOM_Element_Uzerinde_Gezme
-22_Js_DOM_Element_Uzerinde_Gezme
